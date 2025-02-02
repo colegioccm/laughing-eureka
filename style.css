@@ -1,0 +1,50 @@
+header{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    font-family: Arial, sans-serif;
+    border-radius: 20px;
+}
+header h1{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+section{
+    margin-top: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+    padding: 1em;
+    border-radius: 20px;
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+section h3{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 1em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+section nav p{
+    font-size: 20px;
+    font-weight: bold;
+    font-family:  'Arial Narrow Bold', sans-serif;
+    margin-top: 1em;
+}
+section ul li{
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-top: 1em;
+}
+footer{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em;
+   border-radius: 20px;
+   
+    width: 9;
+    font-family: Arial, sans-serif;
+}
