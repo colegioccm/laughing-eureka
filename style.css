@@ -1,6 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #a19191;
+}
 header{
-    background-color: #333;
-    color: white;
+    background-color: #0ba8a8;
+    color: rgb(0, 0, 0);
     text-align: center;
     padding: 1em;
     font-family: Arial, sans-serif;
@@ -17,7 +23,7 @@ section{
     margin-right: 1em;
     padding: 1em;
     border-radius: 20px;
-    background-color: #f0f0f0;
+    background-color: #0ba8a8;
     font-family: Arial, sans-serif;
 }
 section h3{
@@ -39,8 +45,8 @@ section ul li{
     margin-top: 1em;
 }
 footer{
-    background-color: #333;
-    color: white;
+    background-color: #0ba8a8;
+    color: rgb(0, 0, 0);
     text-align: center;
     padding: 1em;
    border-radius: 20px;
